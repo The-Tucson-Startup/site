@@ -1,0 +1,35 @@
+enable  : true
+title   : What We Can Do For You
+subtitle: >
+  Below is a list of what makes us different from the competition. We hope to hear from you soon!
+item    :
+  - icon  : ion-ios-flask-outline
+    title : Websites
+    description : >
+      We built this website. Like it? Let's make one for you!
+
+  - icon  : ion-ios-lightbulb-outline
+    title : Logos
+    description : >
+      We created our logo. Like It? Let's make one for you!
+      Want something a little bit different, don't worry! We work with great artists to make everyone what they want.
+
+  - icon  : ion-ios-americanfootball-outline
+    title : Email Setup
+    description : >
+      You own a domain name, why not have an email with that domain name? We'll get you setup quickly and easily!
+
+  - icon  : ion-ios-keypad-outline
+    title : Free Consultations
+    description : >
+      Just looking around? Not sure 100% of what you want? Come talk to us! Make an appointment! We're here for you.
+
+  - icon  : ion-ios-barcode-outline
+    title : Services to Your Price
+    description : >
+      Startups aren't a one size fits all. Why should the price be? Talk to us, we'll figure something out we can all appreciate!
+  
+  - icon  : ion-ios-lightbulb-outline
+    title : Local and Felxible
+    description : >
+      We're right here in Tucson. Let's meet at your business, coffee shop, bar, wherever works best for you!

@@ -1,0 +1,94 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "The Tucson Startup | Helping Startups"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "About"
+url     = "about"
+weight  = 2
+[[menu.main]]
+name    = "Service"
+url     = "service"
+weight  = 3
+[[menu.main]]
+name    = "Gallery"
+url     = "gallery"
+weight  = 4
+[[menu.main]]
+name    = "Blog"
+url     = "blog"
+weight  = 5
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 6
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "The Tucson Startup"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/slider.jpg"
+heading = "The Tucson Startup"
+description = "Helping Startup Get Off the Ground"
+# button
+btn     = true
+btnText = "Contact Us"
+btnURL  = "../contact"
+
+# flip text
+[[params.banner.flipText]]
+title   = "Let's Grow Together"
+[[params.banner.flipText]]
+title   = "Let's Build Something Great"
+[[params.banner.flipText]]
+title   = "We Are In This Together"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "WHAT WE DO"
+content = "Creating your own startup isn’t easy. There’s so many different parts to the machine that it can be hard to know where to even start. That’s why The Tucson Startup is here to help. Whether you need help with creating a website, getting a professional email, finding a sales solution and even more; we’re here for you."
+image   = "images/about/canyon.jpg"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "SO WHAT YOU THINK ?"
+content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+btnText = "Contact Us"
+btnURL  = "../contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Latest Works"
+subtitle= "Check out some of the websites we've developed and published for our clients!"
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "#"
