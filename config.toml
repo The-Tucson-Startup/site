@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://tender-leavitt-1c2df1.netlify.app"
 languageCode = "en-us"
 title = "The Tucson Startup | Helping Startups"
 theme = "timer-hugo"
