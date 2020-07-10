@@ -1,0 +1,28 @@
+{{ if .Site.Params.about.enable }}
+{{ "<!-- About Section Start -->" | safeHTML }}
+<section id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
+                    {{ with .Site.Params.about.title }}<h2>{{ . }}</h2>{{ end }}
+                    {{ with .Site.Params.about.content }}<p>{{ . | safeHTML }}</p>{{ end }}
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <figure class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms">
+                    <div class="img-wrapper">
+                        {{ with .Site.Params.about.image }}<img src="{{ . | absURL }}" alt="Credit Off Kilter Photos">{{ end }}
+                        <div class="overlay">
+                            <div class="buttons">
+                                <a class="fancybox" href="https://hisandhersphotostudios.com" target="_blank">Credit: His and Hers Photo Studio</a>
+                            </div>
+                        </div>
+                    </div>
+                </figure>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- About Section End -->" | safeHTML }}
+{{ end }}
