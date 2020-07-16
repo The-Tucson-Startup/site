@@ -27,13 +27,21 @@
                     </div>
                 </div>
             </div>
-            {{ with .Site.Data.partnerships.image }}
             <div class="col-lg-6 order-1 order-lg-2">
                 <div class="block">
-                    <img class="img-fluid" src="{{ . | absURL }}" alt="about-image">
-                </div>
+                <figure>
+                    <div class="img-wrapper">
+                            {{ with .Site.Data.partnerships.image }}<img src="{{ . | absURL }}" alt="Credit His and Hers Photo Studio">{{ end }}
+                            <div class="overlay">
+                                <div class="buttons">
+                                    <a class="fancybox" href="https://hisandhersphotostudios.com" target="_blank">Credit: His and Hers Photo Studio</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </figure>
             </div>
-            {{ end }}
+            </div>
         </div>
     </div>
 </section>
