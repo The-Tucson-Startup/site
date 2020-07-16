@@ -1,0 +1,24 @@
+enable  : true
+title   : PARTNERSHIPS
+subtitle: The Tucson Startup might not offer everything our customers need, but we partner with the right people who do. If you think you can help provide service to customers [contact us](../contact).
+image   : images/partnerships.jpg
+partnershipsItem :
+  - icon  : ion-android-camera
+    title : Photography
+    description: >
+      The Tucson Startup doesn't take pictures but we currently partner with [His and Hers Photo Studio](https://hisandhersphotostudios.com). If you would like to be a photographer partner, hit us. The more the merrier!
+
+  - icon  : ion-paintbrush
+    title : GRAPHICS
+    description: >
+      While The Tucson Startup is more than happy to make all the design and graphics for our customers, we can always use partners who can create beautiful products for our customers!
+
+  - icon  : ion-code
+    title : DEVELOPMENT
+    description: >
+      The Tucson Startup knows how to make beautiful websites and server side projects, we aren't the best at creating Applications for Mobile Devices. Let us know if that's you and we'd love to partner with you!
+
+  - icon  : ion-ios-paper
+    title : CONTENT WRITING
+    description: >
+      Websites live and die by the content that is created. The Tucson Startup is happy to do it for our customers but we can always use help creating new content for our customers. Let us know if you love to create content for customers!

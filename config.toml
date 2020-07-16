@@ -8,24 +8,20 @@ theme = "timer-hugo"
 # Navbar Menus
 [[menu.main]]
 name    = "About"
-url     = "about"
+url     = "../about"
 weight  = 2
 [[menu.main]]
-name    = "Service"
-url     = "service"
+name    = "Partnerships"
+url     = "../partnerships"
 weight  = 3
 [[menu.main]]
-name    = "Gallery"
-url     = "gallery"
+name    = "Blog"
+url     = "../blog"
 weight  = 4
 [[menu.main]]
-name    = "Blog"
-url     = "blog"
-weight  = 5
-[[menu.main]]
 name    = "Contact"
-url     = "contact"
-weight  = 6
+url     = "../contact"
+weight  = 5
 
 # Site Params
 [params]
@@ -45,7 +41,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/slider.jpg"
 heading = "The Tucson Startup"
-description = "Helping Startup Get Off the Ground"
+description = "Helping Startups Get Off the Ground"
 # button
 btn     = true
 btnText = "Contact Us"
@@ -55,9 +51,9 @@ btnURL  = "../contact"
 [[params.banner.flipText]]
 title   = "Let's Grow Together"
 [[params.banner.flipText]]
-title   = "Let's Build Something Great"
+title   = "Let's Build Together"
 [[params.banner.flipText]]
-title   = "We Are In This Together"
+title   = "We're In This Together"
 
 # Homepage About Section
 [params.about]
@@ -69,8 +65,8 @@ image   = "images/about/canyon.jpg"
 # Call to Action
 [params.cta]
 enable  = true
-title   = "SO WHAT YOU THINK ?"
-content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+title   = "STILL UNCONVINCED ?"
+content = "Drop us a line. Let's talk about what you want and what we can provide."
 btnText = "Contact Us"
 btnURL  = "../contact"
 
@@ -83,12 +79,8 @@ subtitle= "Check out some of the websites we've developed and published for our 
 # social icon
 [[params.socialIcon]]
 icon = "ion-social-facebook"
-url = "#"
+url = "https://www.facebook.com/thetucsonstartup"
 
 [[params.socialIcon]]
 icon = "ion-social-instagram"
-url = "#"
-
-[[params.socialIcon]]
-icon = "ion-social-linkedin"
-url = "#"
+url = "https://www.instagram.com/thetucsonstartup/"

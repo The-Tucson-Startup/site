@@ -1,20 +1,26 @@
 enable  : true
-title   : Why We are Different
+title   : It all started when…
 description: >
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  We were speaking with friends and how they wanted to create their own business but weren’t sure where to start or really get going. We offered our help before we even created this business. Then we spoke to more people around town how they had the same feeling.
   <br>
   <br>
-  Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
-image   : images/about/about-company.jpg
+  So we thought to ourselves “There’s a lot of amazing, talented people in Tucson who want to make something of their dreams but feel stuck. We should do something about that.” And thus, The Tucson Startup was born.
+  <br>
+  <br>
+  We know there are people in Tucson with great ideas and amazing talent but not always sure on how to get going. We’re to help with those entrepreneurs who need a little guidance and a helping hand.
+  <br>
+  <br>
+  If you’re looking to get your own Startup going, <a href="../contact">contact us today</a>!
+image   : images/about/thunderstorm.jpg
 aboutItem:
-  - title : Why Choose Us
+  - title : We're Tucson Locals
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      We work in and around Tucson, AZ. We know and love Tucson and its people. Let's support one another and grow Tucson even better.
 
-  - title : What You Get
+  - title : We're Affordable
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      Your Startup isn't like others, why should the price be? We'll work with on a price that we all can appreciate.
 
-  - title : Meet The Energy
+  - title : We're Experienced
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      With over 15+ years in the Tech Industry and over 10+ years in Web Development, we'll be sure to do what's best for you.

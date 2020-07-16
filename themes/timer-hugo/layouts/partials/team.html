@@ -21,7 +21,7 @@
                     <p class="social-icons">
                         {{ with .facebook }}
                         <a href="{{ . }}" class="facebook" target="_blank">
-                            <i class="ion-social-facebook-outline"></i>
+                            <i class="ion-social-facebook"></i>
                         </a>
                         {{ end }}
                         {{ with .twitter }}
@@ -34,9 +34,14 @@
                             <i class="ion-social-linkedin-outline"></i>
                         </a>
                         {{ end }}
-                        {{ with .googleplus }}
+                        {{ with .instagram }}
                         <a href="{{ . }}" target="_blank">
-                            <i class="ion-social-googleplus-outline"></i>
+                            <i class="ion-social-instagram-outline"></i>
+                        </a>
+                        {{ end }}
+                        {{ with .site }}
+                        <a href="{{ . }}" target="_blank">
+                            <i class="ion-android-globe"></i>
                         </a>
                         {{ end }}
                     </p>

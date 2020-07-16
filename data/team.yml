@@ -1,11 +1,24 @@
 enable  : true
 title   : MEET THE TEAM
 members  :
-  - name  : Jonathon Andrew
-    image : images/team/team-1.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+  - name  : Jake
+    image : images/team/jake.jpg
+    designation : CEO, Lead Web Developer
+    description : With over 15 years in tech and over 10 years of web development and working in multiple startups, it just made sense to start up my own company to help others start theirs.
+    linkedIn    : https://www.linkedin.com/in/jakekromer/
+
+  - name  : Isaac
+    image : images/team/isaac.jpg
+    designation : Photographer, His and Hers Photo Studio
+    description : 
+    site    : https://www.hisandhersphotostudios.com
+    facebook: https://www.facebook.com/hisandhersphotostudio
+    instagram: https://www.instagram.com/hisandhersphotostudio
+
+  - name  : Shannon
+    image : images/team/shannon.jpg
+    designation : Photographer, His and Hers Photo Studio
+    description : 
+    site    : https://www.hisandhersphotostudios.com
+    facebook: https://www.facebook.com/hisandhersphotostudio
+    instagram: https://www.instagram.com/hisandhersphotostudio

@@ -7,7 +7,16 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 wow fadeInLeft" data-wow-delay=".3s">
-                {{ with .Site.Data.about.image }}<img src="{{ . | absURL }}" alt="" class="img-fluid">{{ end }}
+                <figure>
+                    <div class="img-wrapper">
+                        {{ with .Site.Data.about.image }}<img src="{{ . | absURL }}" alt="Credit His and Hers Photo Studio">{{ end }}
+                        <div class="overlay">
+                            <div class="buttons">
+                                <a class="fancybox" href="https://hisandhersphotostudios.com" target="_blank">Credit: His and Hers Photo Studio</a>
+                            </div>
+                        </div>
+                    </div>
+                </figure>
             </div>
             <div class="col-md-6">
                 <div class="block">

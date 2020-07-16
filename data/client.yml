@@ -1,14 +1,5 @@
-enable  : true
-title   : OUR HAPPY CLINETS
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.
+enable  : false
+title   : OUR HAPPY CLIENTS
+subtitle: Below is a list of clients who we've worked with and are happy with our work.
 clientsLogo:
   - image : images/clients/logo-1.jpg
-  - image : images/clients/logo-2.jpg
-  - image : images/clients/logo-3.jpg
-  - image : images/clients/logo-4.jpg
-  - image : images/clients/logo-5.jpg
-  - image : images/clients/logo-1.jpg
-  - image : images/clients/logo-2.jpg
-  - image : images/clients/logo-3.jpg
-  - image : images/clients/logo-4.jpg
-  - image : images/clients/logo-5.jpg
