@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "The Tucson Startup | Helping Startups"
 theme = "timer-hugo"
 
+canonifyURLs = false
+
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
 # Navbar Menus
